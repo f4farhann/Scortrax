@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Graduation Cap Skull Base -->
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M 44,37.5 V 42 C 44,45 64,45 64,42 V 37.5 Z" />
+
+    <!-- Graduation Cap Diamond Top -->
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M 54,31 L 71,37.5 L 54,44 L 37,37.5 Z" />
+
+    <!-- Cap Tassel -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M 66,39.5 C 68,41 68.5,43 68.5,46 L 68.5,49"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.2" />
+
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M 68.5,49 L 66.5,53 L 70.5,53 Z" />
+
+    <!-- Analytics Bar 1 -->
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M 36,62 H 41 C 42.1,62 43,62.9 43,64 V 73 C 43,74.1 42.1,75 41,75 H 36 C 34.9,75 34,74.1 34,73 V 64 C 34,62.9 34.9,62 36,62 Z" />
+
+    <!-- Analytics Bar 2 -->
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M 46,55 H 51 C 52.1,55 53,55.9 53,57 V 73 C 53,74.1 52.1,75 51,75 H 46 C 44.9,75 44,74.1 44,73 V 57 C 44,55.9 44.9,55 46,55 Z" />
+
+    <!-- Analytics Bar 3 -->
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M 56,48 H 61 C 62.1,48 63,48.9 63,50 V 73 C 63,74.1 62.1,75 61,75 H 56 C 54.9,75 54,74.1 54,73 V 50 C 54,48.9 54.9,48 56,48 Z" />
+
+    <!-- Upward Trend Trax Line -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M 33,67 C 43,65 48,57 66,45"
+        android:strokeColor="#FF000000"
+        android:strokeLineCap="round"
+        android:strokeWidth="2.5" />
+
+    <!-- Trax Arrow Head -->
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M 71,41 L 63,43.5 L 67.5,48 Z" />
+
+    <!-- Excellence Star Badge -->
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M 71,25 Q 71,29 75,29 Q 71,29 71,33 Q 71,29 67,29 Q 71,29 71,25 Z" />
+
+</vector>
